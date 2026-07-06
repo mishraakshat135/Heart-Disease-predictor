@@ -130,6 +130,10 @@ Heart Disease Prediction
 
 ---
 
+### Live Demo : https://heart-disease-predictor-zdrwt8zxznrhcjdpfahsse.streamlit.app/
+
+---
+
 ## 👨‍💻 Author
 
 **Akshat Mishra**
